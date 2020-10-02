@@ -1,5 +1,5 @@
 import 'dart:io';
 
 void main() {
-  stdout.write("Hello World !\n");
+  stdout.write("Bye 2020 !\n");
 }
